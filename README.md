@@ -1,4 +1,4 @@
-# Giannan Faces
+# Alisha Visor
 A simple mod using the [State Overlay](https://github.com/1d51/state-overlay) plugin, for the game Odyssey of Gianna.
 
 ## Features
